@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Degree of an Array,100.0,0.5742054384866819,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+MEDIUM,Number of Islands,100.0,0.006459362602904263,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.48273866053327213,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-EASY,Intersection of Two Arrays,100.0,0.7647441227907497,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
-MEDIUM,Web Crawler Multithreaded,89.5,0.5009673447851322,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"
+MEDIUM,Snapshot Array,100.0,0.003675117019767636,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,LRU Cache,89.8,0.0047546323694833215,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,89.8,0.005211655521302724,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

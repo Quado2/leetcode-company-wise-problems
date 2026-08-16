@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.4548729045294045,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Best Time to Buy and Sell Stock,84.1,0.5526335502330503,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Longest Common Prefix,100.0,0.004778148597251135,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Gas Station,100.0,0.004819452728498499,https://leetcode.com/problems/gas-station,"Array, Greedy"
+HARD,Merge k Sorted Lists,75.5,0.005981753949316091,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577702584671799,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Anagram,100.0,0.6666098846407555,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Group Anagrams,100.0,0.007279900792623488,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003929967609119583,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Max Consecutive Ones,100.0,0.00654492463802353,https://leetcode.com/problems/max-consecutive-ones,Array

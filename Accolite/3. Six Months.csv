@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Replace the Substring for Balanced String,100.0,0.3957869695341877,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
-EASY,Two Sum,83.2,0.5577705039146774,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Coin Change,100.0,0.004863050091387497,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003929937441226943,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

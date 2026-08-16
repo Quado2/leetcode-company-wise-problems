@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.452147387470624,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Sliding Window Maximum,71.6,0.47604176540136595,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Restore IP Addresses,71.6,0.5315843132324689,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Search in Rotated Sorted Array,71.6,0.4283722145334321,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-HARD,Basic Calculator,71.6,0.45589654652961087,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,71.6,0.3693614444669191,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Logger Rate Limiter,100.0,0.007685429606125137,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Design Twitter,100.0,0.004495985491092513,https://leetcode.com/problems/design-twitter,"Hash Table, Linked List, Design, Heap (Priority Queue)"
+MEDIUM,Merge Intervals,100.0,0.0052116596058579216,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,LRU Cache,100.0,0.004754634012221237,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Add Two Numbers,100.0,0.004870082512204222,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"

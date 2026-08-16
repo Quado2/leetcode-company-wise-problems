@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Number of 1 Bits,100.0,0.7450480575885099,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
+MEDIUM,Redundant Connection,100.0,0.0067784920943903485,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"

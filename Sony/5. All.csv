@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Subtree Removal Game with Fibonacci Tree,100.0,0.5698689956331878,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
-HARD,Reducing Dishes,74.9,0.7634905741624626,https://leetcode.com/problems/reducing-dishes,"Array, Dynamic Programming, Greedy, Sorting"
-EASY,Best Time to Buy and Sell Stock,66.5,0.5525969471064145,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Random Pick with Weight,66.5,0.48278533987379574,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+HARD,Subtree Removal Game with Fibonacci Tree,100.0,0.005778863775198534,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
+MEDIUM,Random Pick with Weight,66.2,0.004912308707924108,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Number of Good Pairs,66.2,0.008985099157268039,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"
+EASY,Valid Parentheses,66.2,0.004436556203402231,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,66.2,0.005768895578172673,https://leetcode.com/problems/two-sum,"Array, Hash Table"

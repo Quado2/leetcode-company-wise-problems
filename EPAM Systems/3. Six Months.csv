@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577699113119969,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,87.0,0.3693614405294362,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Palindromic Substring,87.0,0.35846135942015783,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Longest Common Prefix,76.6,0.4548314437013565,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Duplicate Emails,76.6,0.724494170203485,https://leetcode.com/problems/duplicate-emails,Database
+EASY,Move Zeroes,100.0,0.006398869675014033,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.0039299463855306475,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,100.0,0.005509624174681576,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,LRU Cache,88.6,0.0047546181609751294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

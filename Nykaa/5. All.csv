@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.4128053161945387,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Koko Eating Bananas,88.7,0.4906744578198354,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-HARD,Merge k Sorted Lists,88.7,0.5677430867630362,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Diagonal Traverse,88.7,0.6317355223295921,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
-MEDIUM,Remove Duplicates from Sorted Array II,88.7,0.6290213081051084,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
+MEDIUM,Largest Number,100.0,0.004323277012540644,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+HARD,Longest Valid Parentheses,92.6,0.0039027625299666168,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+MEDIUM,Set Matrix Zeroes,82.1,0.0063175131860881886,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Reverse Words in a String,82.1,0.005681693890681638,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
